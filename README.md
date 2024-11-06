@@ -1,6 +1,6 @@
 # Zerops x Analog - Node.js
 
-Analog is a fullstack meta-framework for building applications and websites with Angular. [Zerops](https://zerops.io) makes deploying and running Analog apps, both server side rendered and static, a breeze. This recipe showcases the Static version, see [zeropsio/recipe-analog-static](https://github.com/zeropsio/recipe-analog-static) for the Node.js version.
+Analog is a fullstack meta-framework for building applications and websites with Angular. [Zerops](https://zerops.io) makes deploying and running Analog apps, both server side rendered and static, a breeze. This recipe showcases the Node.js version, see [zeropsio/recipe-analog-static](https://github.com/zeropsio/recipe-analog-static) for the Static version.
 
 ![analog](https://github.com/zeropsio/recipe-shared-assets/blob/main/covers/svg/cover-analog.svg)
 
